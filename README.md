@@ -14,7 +14,6 @@ honest data and systems that stay simple.
 
 - **[ratchet](https://github.com/gustavo-neiva/ratchet)** — unattended-but-safe agent loop. Runs coding agents overnight with green-gated commits and multi-provider rate-limit survival. Used to build itself.
 - **[Tá Justo?](https://github.com/gustavo-neiva/ta_justo)** — fair-price index for Rio shoppers, built from CEASA-RJ's daily wholesale bulletins. Rails 8 + D3.
-- **[Soletra](https://g1.globo.com/jogos/soletra/)** — daily word game for G1. Live, and still running.
 
 ### Stack
 
