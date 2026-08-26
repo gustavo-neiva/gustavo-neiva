@@ -1,16 +1,26 @@
-### Hi there 👋
+## Gustavo Neiva
 
-<!--
-**gustavo-neiva/gustavo-neiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior software engineer — regulated fintech, high-traffic media, and the practical end of AI.
 
-Here are some ideas to get you started:
+Currently at **Carta**, shipping across tax, liquidity, and securities, and building the company's
+AI enablement practice: 200+ non-engineering staff trained, agent tooling in daily use across
+Engineering, Sales, and Marketing. Before that, four years at **Globo** — Latin America's largest
+media publisher — building games and election systems at national scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Came to software from agronomy, by way of maps, spatial data, and Python. It's why I care about
+honest data and systems that stay simple.
+
+### Building
+
+- **[ratchet](https://github.com/gustavo-neiva/ratchet)** — unattended-but-safe agent loop. Runs coding agents overnight with green-gated commits and multi-provider rate-limit survival. Used to build itself.
+- **[Tá Justo?](https://github.com/gustavo-neiva/ta_justo)** — fair-price index for Rio shoppers, built from CEASA-RJ's daily wholesale bulletins. Rails 8 + D3.
+- **[Soletra](https://g1.globo.com/jogos/soletra/)** — daily word game for G1. Live, and still running.
+
+### Stack
+
+Python · Django · TypeScript · React · Ruby on Rails · Go · Svelte · PostgreSQL · Redis · D3.js · Docker · AWS
+
+---
+
+📍 Rio de Janeiro · 🇺🇸 US citizen · open to senior fullstack + AI-engineering roles
+✉️ luizgzn@gmail.com · 🌐 [gustavoneiva.dev](https://gustavoneiva.dev) · 💼 [LinkedIn](https://linkedin.com/in/gustavo-neiva)
