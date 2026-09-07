@@ -12,7 +12,7 @@ honest data and systems that stay simple.
 
 ### Building
 
-- **[ratchet](https://github.com/gustavo-neiva/ratchet)** — unattended-but-safe agent loop. Runs coding agents overnight with green-gated commits and multi-provider rate-limit survival. Used to build itself.
+- **[robur](https://github.com/gustavo-neiva/robur)** — unattended-but-safe agent loop. Runs coding agents overnight with green-gated commits, per-task cost-tier routing, and multi-provider rate-limit survival. Ruby, stdlib only.
 - **[Tá Justo?](https://github.com/gustavo-neiva/ta_justo)** — fair-price index for Rio shoppers, built from CEASA-RJ's daily wholesale bulletins. Rails 8 + D3.
 
 ### Stack
